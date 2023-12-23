@@ -40,8 +40,4 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 This project is open-sourced under the MIT License.
 
 ## Contact
-For any queries or discussions related to this project, feel free to contact me at [Your Contact Information].
-
-## Acknowledgments
-- Data provided by [Source of Data]
-- Inspired by [References to any tutorials or articles you followed]
+For any queries or discussions related to this project, feel free to contact me at bachir.m.kabbara@gmail.com.
